@@ -25,16 +25,16 @@ DELETE:
 
 == How to Run the server ==
 
-  1 - make sure you have node.js 0.6.10 installed (http://nodejs.org/)
-  2 - unzip the content of this folder to the root of your hard drive ('C:\')
-  3 - open  PowerShell
-  4 - navigate to the location where you unziped the content of this folder
-  5 - execute 'node index.js', you could optionally execute 'node index.js -d C:\some\other\directory' to run the server at a different location than the current location. 
-  6 - congratulations you have document-server running at localhost:8888
+ 1. make sure you have node.js 0.6.10 installed (http://nodejs.org/)
+ 2. unzip the content of this folder to the root of your hard drive ('C:\')
+ 3. open  PowerShell
+ 4. navigate to the location where you unziped the content of this folder
+ 5. execute 'node index.js', you could optionally execute 'node index.js -d C:\some\other\directory' to run the server at a different location than the current location. 
+ 6. congratulations you have document-server running at localhost:8888
 
 
 == how to run the tests ==
  
-  1 - follow the same steps 1 - 3 above
-  2 - navigate to C:\the\path\DocumentServer\tests
-  3 - execute 'node document-server-tests.js'
+ 1. follow the same steps 1 - 3 above
+ 2. navigate to C:\the\path\DocumentServer\tests
+ 3. execute 'node document-server-tests.js'
